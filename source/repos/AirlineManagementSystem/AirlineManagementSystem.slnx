@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/gitignore/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="AirlineManagement.Business/Business.csproj" />
+    <Project Path="AirlineManagement.DataBase/DataBase.csproj" />
+    <Project Path="AirlineManagement.Domain/Domain.csproj" />
+    <Project Path="AirlineManagement.Presentation/Presentation.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <File Path="file.txt" />
+  </Folder>
+</Solution>
